@@ -1,0 +1,17 @@
+.topBar {
+    padding: 20px 20px 20px 20px;
+    background: #DDDEE3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.bottomBar {
+    background: #DDDEE3;
+    padding: 20px 20px 20px 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
